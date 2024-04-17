@@ -1,0 +1,1 @@
+# vscode_easy_translator
